@@ -1,0 +1,13 @@
+/build/
+*.o
+*.axf
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+*.srec
+*.dep
+*.out
+*.lst
+*.obj
